@@ -1,4 +1,4 @@
-# Trades & Barters
+# Trade & Barter
 
 For more information, view the "**tradingRevamp.pdf**" file.
 
